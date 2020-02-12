@@ -1,0 +1,11 @@
+{
+  "name": "shadowcomp",
+  "version": "1.0.0",
+  "description": "Component which adds shadow to images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Stoyanov",
+  "license": "MIT"
+}
