@@ -17,6 +17,7 @@ shadowComponent({
 });
 ```
 
+In HTML add the class ```shadowComp``` to the desired image and you will get the shadow.
 ## Options
 
 ShadowComponent supports 2 options, both of which are optional:
