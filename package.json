@@ -6,6 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanchoy/shadowcomp.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
   "author": "Ivan Stoyanov",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vanchoy/shadowcomp/issues"
+  },
+  "homepage": "https://github.com/vanchoy/shadowcomp#readme"
 }
