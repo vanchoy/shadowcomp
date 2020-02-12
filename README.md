@@ -8,7 +8,7 @@ Get perfect shadows every time for non-designer.
 
 # Usage
 
-```
+```javascript
 import { shadowComponent } from 'shadowcomp';
 
 shadowComponent({
@@ -19,7 +19,7 @@ shadowComponent({
 
 OR
 
-```
+```javascript
 import { shadowComponent } from 'shadowcomp';
 
 const shadowOptions = {
