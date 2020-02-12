@@ -6,7 +6,7 @@ Get perfect shadows every time for non-designer.
 
 `npm i shadowcomp --save`
 
-Then...
+# Usage
 
 ```
 import { shadowComponent } from shadowComponent;
