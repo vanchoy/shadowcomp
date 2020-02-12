@@ -1,6 +1,6 @@
 {
   "name": "shadowcomp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Component which adds shadow to images",
   "main": "index.js",
   "scripts": {
