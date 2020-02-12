@@ -9,12 +9,24 @@ Get perfect shadows every time for non-designer.
 # Usage
 
 ```
-import { shadowComponent } from shadowComponent;
+import { shadowComponent } from 'shadowcomp';
 
 shadowComponent({
     shadow_type: 'soft',
     padding: false
 });
+```
+
+OR
+
+```
+import { shadowComponent } from 'shadowcomp';
+
+const shadowOptions = {
+    shadow_type: 'soft',
+    padding: true
+};
+shadowComponent(shadowOptions);
 ```
 
 In HTML add the class ```shadowComp``` to the desired image and you will get the shadow.
